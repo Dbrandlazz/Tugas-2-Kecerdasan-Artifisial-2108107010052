@@ -1,8 +1,6 @@
 # Tugas-2-Kecerdasan-Artifisial-2108107010052
-Nama   : Muhammad Kemal Fasya
-
-NIM    : 2108107010052
-
+Nama   : Muhammad Kemal Fasya\n
+NIM    : 2108107010052\n
 Kelas  : B
 
 # Plot Proses Training
