@@ -1,4 +1,4 @@
-# Tugas-2-Kecerdasan-Artifisial-2108107010052
+# Tugas-2-Kecerdasan-Artifisial
 Nama   : Muhammad Kemal Fasya
 
 
