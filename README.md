@@ -1,7 +1,9 @@
 # Tugas-2-Kecerdasan-Artifisial-2108107010052
-Nama : Muhammad Kemal Fasya
-NIM  : 2108107010052
-Kelas : B
+Nama   : Muhammad Kemal Fasya
+
+NIM    : 2108107010052
+
+Kelas  : B
 
 # Plot Proses Training
 ![train_test_plot_intelimage](https://github.com/Dbrandlazz/Tugas-2-Kecerdasan-Artifisial-2108107010052/assets/73331870/06702878-05c5-40b1-b736-6fd8590e3f10)
